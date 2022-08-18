@@ -1,0 +1,16 @@
+Name: Nguyễn Đình Văn
+MSSV: 20127662
+
+PROJECT 2
+## Requirements
+
+- [DONE]  Read the file
+- [DONE]  Print out all the employees' information and the final payment for each employee.
+
+- List all the things that you have done that the instructor should consider for a bonus:
+	+ Chia file.
+	+ Có các class DailyEmployee, HourlyEmployee, ProductEmployee, Manager, Employeee, Company
+	+ Sử dụng các hàm ảo input, output, calcPayment
+	+ Sử dụng design pattern
+
+Expected grade: 10
